@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=HanifAlKauni&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=white" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=620&lines=HanifAlKauni;Backend+Technology+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=650&lines=HanifAlKauni;Back+End+Developer;Golang+%7C+Laravel+%7C+AI+Engineer;Building+Scalable+Backend+Systems" />
 
 <p align="center">
 <div id="title" align=center>
@@ -42,16 +42,29 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Ingatin: Telegram Reminder SaaS</h3>
+      <h3 align="center">🚀 Alih Spec</h3>
       <p align="center">
-        <a href="https://github.com/hanifalkauni/telegram-reminder-bot">
-          <img src="https://img.shields.io/badge/Status-Active%20SaaS-10A37F?style=for-the-badge&logo=telegram&logoColor=white" />
+        <a href="https://github.com/hanifalkauni/alih-spec">
+          <img src="https://img.shields.io/badge/Framework-Enterprise%20SDD-8A2BE2?style=for-the-badge&logo=powershell&logoColor=white" />
         </a>
       </p>
-      <p>Serverless Telegram Reminder SaaS bot untuk tracking jatuh tempo tagihan, garansi, pajak kendaraan, maintenance rutin, & agenda khusus.</p>
-      <p><b>Tech:</b> <code>TypeScript</code> <code>grammY</code> <code>Supabase</code> <code>Vercel Cron</code></p>
-      <p align="right"><a href="https://github.com/hanifalkauni/telegram-reminder-bot"><b>Explore Repository ➔</b></a></p>
+      <p>Enterprise Spec-Driven Development (SDD) framework & native AI skill untuk konversi codebase antar teknologi berbasis 16 Universal Pillars.</p>
+      <p><b>Tech:</b> <code>SDD Framework</code> <code>AI Skill</code> <code>PowerShell</code></p>
+      <p align="right"><a href="https://github.com/hanifalkauni/alih-spec"><b>Explore Repository ➔</b></a></p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✨ README Architect</h3>
+      <p align="center">
+        <a href="https://github.com/hanifalkauni/readme-architect">
+          <img src="https://img.shields.io/badge/Agent-MCP%20Ready-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+        </a>
+      </p>
+      <p>Universal AI Skill Agent untuk automated, visually stunning & 100% accurate README generation dengan Model Context Protocol (MCP).</p>
+      <p><b>Tech:</b> <code>JavaScript</code> <code>MCP Protocol</code> <code>AI Agent</code></p>
+      <p align="right"><a href="https://github.com/hanifalkauni/readme-architect"><b>Explore Repository ➔</b></a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📦 Planogrid Go</h3>
       <p align="center">
@@ -63,8 +76,6 @@
       <p><b>Tech:</b> <code>Go</code> <code>Spatial Algorithms</code> <code>Computer Vision</code></p>
       <p align="right"><a href="https://github.com/hanifalkauni/planogrid-go"><b>Explore Repository ➔</b></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚡ WASM Sudoku Go</h3>
       <p align="center">
@@ -72,20 +83,9 @@
           <img src="https://img.shields.io/badge/WebAssembly-Wasm%20%2B%20Go-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
         </a>
       </p>
-      <p>Modern, lightning-fast Sudoku web game bertenaga Go WebAssembly (Wasm) dengan Global Leaderboard di Vercel KV (Redis).</p>
+      <p>Modern, lightning-fast Sudoku web game bertenaga Go WebAssembly (Wasm) dengan live Global Leaderboard di Vercel KV (Redis).</p>
       <p><b>Tech:</b> <code>Go</code> <code>WebAssembly</code> <code>Redis</code> <code>JavaScript</code></p>
       <p align="right"><a href="https://github.com/hanifalkauni/wasm-sudoku-go"><b>Explore Repository ➔</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💰 Telegram AI Financial Tracker</h3>
-      <p align="center">
-        <a href="https://github.com/hanifalkauni/telegram-financial-tracker-bot">
-          <img src="https://img.shields.io/badge/AI-Gemini%202.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-        </a>
-      </p>
-      <p>Commercial Telegram bot untuk pencatatan keuangan pintar via natural language, OCR struk belanja, & budgeting 50/30/20.</p>
-      <p><b>Tech:</b> <code>TypeScript</code> <code>Telegraf</code> <code>Gemini AI</code> <code>Supabase</code></p>
-      <p align="right"><a href="https://github.com/hanifalkauni/telegram-financial-tracker-bot"><b>Explore Repository ➔</b></a></p>
     </td>
   </tr>
 </table>
