@@ -52,7 +52,7 @@
           <img src="https://img.shields.io/badge/Framework-Enterprise%20SDD-8A2BE2?style=for-the-badge&logo=powershell&logoColor=white" />
         </a>
       </p>
-      <p>Enterprise Spec-Driven Development (SDD) framework & native AI skill untuk konversi codebase antar teknologi berbasis 16 Universal Pillars.</p>
+      <p>Enterprise Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversion powered by 16 Universal Pillars.</p>
       <p><b>Tech:</b> <code>SDD Framework</code> <code>AI Skill</code> <code>PowerShell</code></p>
       <p align="right"><a href="https://github.com/hanifalkauni/alih-spec"><b>Explore Repository ➔</b></a></p>
     </td>
@@ -63,7 +63,7 @@
           <img src="https://img.shields.io/badge/Agent-MCP%20Ready-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
         </a>
       </p>
-      <p>Universal AI Skill Agent untuk automated, visually stunning & 100% accurate README generation dengan Model Context Protocol (MCP).</p>
+      <p>Universal AI Skill Agent for automated, visually stunning & 100% compliant README generation with Model Context Protocol (MCP) support.</p>
       <p><b>Tech:</b> <code>JavaScript</code> <code>MCP Protocol</code> <code>AI Agent</code></p>
       <p align="right"><a href="https://github.com/hanifalkauni/readme-architect"><b>Explore Repository ➔</b></a></p>
     </td>
@@ -76,7 +76,7 @@
           <img src="https://img.shields.io/badge/Go-Package-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
         </a>
       </p>
-      <p>Ultra-high-performance pure Go package untuk 2D spatial grid sorting pada bounding box object detection & retail planogram audit.</p>
+      <p>Ultra-high-performance pure Go package for 2D spatial grid sorting of object detection bounding boxes & retail planogram audit.</p>
       <p><b>Tech:</b> <code>Go</code> <code>Spatial Algorithms</code> <code>Computer Vision</code></p>
       <p align="right"><a href="https://github.com/hanifalkauni/planogrid-go"><b>Explore Repository ➔</b></a></p>
     </td>
@@ -87,7 +87,7 @@
           <img src="https://img.shields.io/badge/WebAssembly-Wasm%20%2B%20Go-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
         </a>
       </p>
-      <p>Modern, lightning-fast Sudoku web game bertenaga Go WebAssembly (Wasm) dengan live Global Leaderboard di Vercel KV (Redis).</p>
+      <p>Modern, lightning-fast Sudoku web game powered by Go WebAssembly (Wasm) with real-time Global Leaderboard on Vercel KV (Redis).</p>
       <p><b>Tech:</b> <code>Go</code> <code>WebAssembly</code> <code>Redis</code> <code>JavaScript</code></p>
       <p align="right"><a href="https://github.com/hanifalkauni/wasm-sudoku-go"><b>Explore Repository ➔</b></a></p>
     </td>
@@ -97,31 +97,31 @@
 <br />
 
 ### 🤖 Chatbots & AI Bots
-| Proyek | Deskripsi & Fitur Utama | Tech Stack | Link |
+| Project | Description & Key Features | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **[Ingatin: Telegram Reminder SaaS](https://github.com/hanifalkauni/telegram-reminder-bot)** | Serverless reminder bot untuk tagihan, garansi, servis & pajak kendaraan | `TypeScript` `grammY` `Supabase` `Vercel Cron` | [🔗 Repo](https://github.com/hanifalkauni/telegram-reminder-bot) |
-| **[Telegram AI Financial Tracker](https://github.com/hanifalkauni/telegram-financial-tracker-bot)** | Bot pencatat keuangan via natural language, OCR receipt & 50/30/20 budget | `TypeScript` `Gemini AI` `Telegraf` `Supabase` | [🔗 Repo](https://github.com/hanifalkauni/telegram-financial-tracker-bot) |
-| **[Weekend Schedule Bot & Mini App](https://github.com/hanifalkauni/weekend-schedule)** | Bot & Mini App Telegram manajemen jadwal tim dengan calendar export (.ics) | `JavaScript` `Telegram Mini App` `Supabase` `Vercel Cron` | [🔗 Repo](https://github.com/hanifalkauni/weekend-schedule) |
-| **[Gemini Chatbot Web & API](https://github.com/hanifalkauni/gemini-chatbot-api)** | Web chatbot application bertenaga Google Gemini AI dengan clean UI interaktif | `JavaScript` `Express` `Google Gemini API` | [🔗 Repo](https://github.com/hanifalkauni/gemini-chatbot-api) |
-| **[Gemini AI Multimodal API](https://github.com/hanifalkauni/gemini-ai-api-project)** | Express REST API untuk generate konten dari teks, gambar, dokumen & audio | `Node.js` `Express` `Google Gemini API` | [🔗 Repo](https://github.com/hanifalkauni/gemini-ai-api-project) |
+| **[Ingatin: Telegram Reminder SaaS](https://github.com/hanifalkauni/telegram-reminder-bot)** | Serverless reminder SaaS bot for tracking bills, warranties, routine maintenance & vehicle taxes | `TypeScript` `grammY` `Supabase` `Vercel Cron` | [🔗 Repo](https://github.com/hanifalkauni/telegram-reminder-bot) |
+| **[Telegram AI Financial Tracker](https://github.com/hanifalkauni/telegram-financial-tracker-bot)** | Commercial finance bot with natural language expense logging, OCR receipt scanning & 50/30/20 budget | `TypeScript` `Gemini AI` `Telegraf` `Supabase` | [🔗 Repo](https://github.com/hanifalkauni/telegram-financial-tracker-bot) |
+| **[Weekend Schedule Bot & Mini App](https://github.com/hanifalkauni/weekend-schedule)** | Telegram Bot & Mini App for team project schedule management with calendar export (.ics) | `JavaScript` `Telegram Mini App` `Supabase` `Vercel Cron` | [🔗 Repo](https://github.com/hanifalkauni/weekend-schedule) |
+| **[Gemini Chatbot Web & API](https://github.com/hanifalkauni/gemini-chatbot-api)** | Interactive web chatbot application powered by Google Gemini AI with clean modern UI | `JavaScript` `Express` `Google Gemini API` | [🔗 Repo](https://github.com/hanifalkauni/gemini-chatbot-api) |
+| **[Gemini AI Multimodal API](https://github.com/hanifalkauni/gemini-ai-api-project)** | Express REST API for multimodal content generation across text, images, documents & audio | `Node.js` `Express` `Google Gemini API` | [🔗 Repo](https://github.com/hanifalkauni/gemini-ai-api-project) |
 
 ### 📦 Packages & Libraries
-| Proyek | Deskripsi & Fitur Utama | Tech Stack | Link |
+| Project | Description & Key Features | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **[Planogrid Go](https://github.com/hanifalkauni/planogrid-go)** | Pure Go package untuk 2D spatial grid sorting bounding boxes & planogram audit | `Go` `Spatial Grid Algorithms` `Computer Vision` | [🔗 Repo](https://github.com/hanifalkauni/planogrid-go) |
-| **[Planogrid PHP](https://github.com/hanifalkauni/planogrid)** | Framework-agnostic PHP package untuk 2D Spatial Grid Sorting & AWS Rekognition | `PHP` `AWS Rekognition` `Spatial Sorting` | [🔗 Repo](https://github.com/hanifalkauni/planogrid) |
-| **[Distance Coordinate Calculator](https://github.com/hanifalkauni/distance-coordinate-calculator-package)** | Package PHP & Laravel kalkulasi jarak GPS Haversine, radius bound & sorting lokasi | `PHP` `Laravel` `Haversine Formula` `GIS` | [🔗 Repo](https://github.com/hanifalkauni/distance-coordinate-calculator-package) |
+| **[Planogrid Go](https://github.com/hanifalkauni/planogrid-go)** | Pure Go package for 2D spatial grid sorting of object detection bounding boxes & planogram audit | `Go` `Spatial Grid Algorithms` `Computer Vision` | [🔗 Repo](https://github.com/hanifalkauni/planogrid-go) |
+| **[Planogrid PHP](https://github.com/hanifalkauni/planogrid)** | Framework-agnostic PHP package for 2D Spatial Grid Sorting & AWS Rekognition annotations | `PHP` `AWS Rekognition` `Spatial Sorting` | [🔗 Repo](https://github.com/hanifalkauni/planogrid) |
+| **[Distance Coordinate Calculator](https://github.com/hanifalkauni/distance-coordinate-calculator-package)** | PHP & Laravel package to calculate Haversine GPS distance, radius bounds & nearest locations | `PHP` `Laravel` `Haversine Formula` `GIS` | [🔗 Repo](https://github.com/hanifalkauni/distance-coordinate-calculator-package) |
 
 ### ⚡ WebAssembly (Wasm)
-| Proyek | Deskripsi & Fitur Utama | Tech Stack | Link |
+| Project | Description & Key Features | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **[WASM Sudoku Go](https://github.com/hanifalkauni/wasm-sudoku-go)** | Lightning-fast Sudoku web game bertenaga Go WebAssembly dengan live leaderboard | `Go` `WebAssembly (WASM)` `JavaScript` `Redis` | [🔗 Repo](https://github.com/hanifalkauni/wasm-sudoku-go) |
+| **[WASM Sudoku Go](https://github.com/hanifalkauni/wasm-sudoku-go)** | Lightning-fast Sudoku web game powered by Go WebAssembly with real-time global leaderboard | `Go` `WebAssembly (WASM)` `JavaScript` `Redis` | [🔗 Repo](https://github.com/hanifalkauni/wasm-sudoku-go) |
 
 ### 🛠️ Developer Tools & AI Skills
-| Proyek | Deskripsi & Fitur Utama | Tech Stack | Link |
+| Project | Description & Key Features | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **[README Architect](https://github.com/hanifalkauni/readme-architect)** | AI Skill Agent untuk generate README visual & compliant dengan MCP | `JavaScript` `MCP Protocol` `AI Agent` | [🔗 Repo](https://github.com/hanifalkauni/readme-architect) |
-| **[Alih Spec](https://github.com/hanifalkauni/alih-spec)** | Spec-Driven Development framework & AI skill konversi antar stack | `SDD Framework` `AI Skill` `PowerShell` | [🔗 Repo](https://github.com/hanifalkauni/alih-spec) |
+| **[README Architect](https://github.com/hanifalkauni/readme-architect)** | Universal AI Skill Agent for automated, compliant & visually stunning README generation (MCP ready) | `JavaScript` `MCP Protocol` `AI Agent` | [🔗 Repo](https://github.com/hanifalkauni/readme-architect) |
+| **[Alih Spec](https://github.com/hanifalkauni/alih-spec)** | Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversions | `SDD Framework` `AI Skill` `PowerShell` | [🔗 Repo](https://github.com/hanifalkauni/alih-spec) |
 
 ---
 
@@ -147,7 +147,7 @@
 
 ## 🤝 Connect with Me <a id="Connect"></a>
 <p align="center">
-  Terbuka untuk kolaborasi proyek, diskusi backend architecture, Golang, Laravel, maupun AI integration!
+  Open for project collaborations, backend architecture discussions, Golang, Laravel, and AI integrations!
 </p>
 <div align="center">
   <a href="https://linkedin.com/in/hanifalkauni" target="_blank">
