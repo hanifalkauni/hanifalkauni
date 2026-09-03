@@ -5,11 +5,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=650&lines=HanifAlKauni;Back+End+Developer;Golang+%7C+Laravel+%7C+AI+Engineer;Building+Scalable+Backend+Systems" />
 
 <p align="center">
-<div id="title" align=center>
-
-
-</div>
-
+  <a href="https://linkedin.com/in/hanifalkauni" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muhammad.hanif@weekendinc.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/hanifalkauni" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -139,5 +143,24 @@
 
 </div>
 
+---
+
+## 🤝 Connect with Me <a id="Connect"></a>
+<p align="center">
+  Terbuka untuk kolaborasi proyek, diskusi backend architecture, Golang, Laravel, maupun AI integration!
+</p>
+<div align="center">
+  <a href="https://linkedin.com/in/hanifalkauni" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muhammad.hanif@weekendinc.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/hanifalkauni" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
+
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
