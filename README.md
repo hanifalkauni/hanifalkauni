@@ -107,7 +107,6 @@
 | **[Planogrid Go](https://github.com/hanifalkauni/planogrid-go)** | Pure Go package untuk 2D spatial grid sorting bounding boxes & planogram audit | `Go` `Spatial Grid Algorithms` `Computer Vision` | [🔗 Repo](https://github.com/hanifalkauni/planogrid-go) |
 | **[Planogrid PHP](https://github.com/hanifalkauni/planogrid)** | Framework-agnostic PHP package untuk 2D Spatial Grid Sorting & AWS Rekognition | `PHP` `AWS Rekognition` `Spatial Sorting` | [🔗 Repo](https://github.com/hanifalkauni/planogrid) |
 | **[Distance Coordinate Calculator](https://github.com/hanifalkauni/distance-coordinate-calculator-package)** | Package PHP & Laravel kalkulasi jarak GPS Haversine, radius bound & sorting lokasi | `PHP` `Laravel` `Haversine Formula` `GIS` | [🔗 Repo](https://github.com/hanifalkauni/distance-coordinate-calculator-package) |
-| **[Laravel TMDB API](https://github.com/hanifalkauni/laravel-package-api-tmdb)** | Package Laravel wrapper modular untuk integrasi The Movie Database API | `PHP` `Laravel` `TMDB API` | [🔗 Repo](https://github.com/hanifalkauni/laravel-package-api-tmdb) |
 
 ### ⚡ WebAssembly (Wasm)
 | Proyek | Deskripsi & Fitur Utama | Tech Stack | Link |
@@ -119,7 +118,6 @@
 | :--- | :--- | :--- | :---: |
 | **[README Architect](https://github.com/hanifalkauni/readme-architect)** | AI Skill Agent untuk generate README visual & compliant dengan MCP | `JavaScript` `MCP Protocol` `AI Agent` | [🔗 Repo](https://github.com/hanifalkauni/readme-architect) |
 | **[Alih Spec](https://github.com/hanifalkauni/alih-spec)** | Spec-Driven Development framework & AI skill konversi antar stack | `SDD Framework` `AI Skill` `PowerShell` | [🔗 Repo](https://github.com/hanifalkauni/alih-spec) |
-| **[Self-Updating n8n Free](https://github.com/hanifalkauni/n8n-free)** | Template deployment gratis n8n auto-updating di Hugging Face & Supabase | `Docker` `n8n` `Supabase` | [🔗 Repo](https://github.com/hanifalkauni/n8n-free) |
 
 ---
 
