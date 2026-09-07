@@ -71,6 +71,30 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🧠 Context Architect</h3>
+      <p align="center">
+        <a href="https://github.com/hanifalkauni/context-architect">
+          <img src="https://img.shields.io/badge/Agent-MCP%20%26%20Skill-6366F1?style=for-the-badge&logo=openai&logoColor=white" />
+        </a>
+      </p>
+      <p>Universal Autonomous Context Window Management, Prompt Caching, Token Optimization & Live Observability AI Skill Agent and MCP Server for Any IDE & Agent Swarm.</p>
+      <p><b>Tech:</b> <code>AI Agent</code> <code>MCP Server</code> <code>Token Optimization</code> <code>Prompt Caching</code></p>
+      <p align="right"><a href="https://github.com/hanifalkauni/context-architect"><b>Explore Repository ➔</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 README Architect</h3>
+      <p align="center">
+        <a href="https://github.com/hanifalkauni/readme-architect">
+          <img src="https://img.shields.io/badge/Agent-MCP%20%26%20Skill-3B82F6?style=for-the-badge&logo=markdown&logoColor=white" />
+        </a>
+      </p>
+      <p>Universal AI Skill Agent for automated, compliant & visually stunning README generation with MCP Server integration.</p>
+      <p><b>Tech:</b> <code>AI Agent</code> <code>MCP Server</code> <code>Markdown</code> <code>Documentation</code></p>
+      <p align="right"><a href="https://github.com/hanifalkauni/readme-architect"><b>Explore Repository ➔</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">📦 Planogrid Go</h3>
       <p align="center">
         <a href="https://github.com/hanifalkauni/planogrid-go">
@@ -99,7 +123,7 @@
 
 ### 🤖 Chatbots & AI Bots
 | Project | Description & Key Features | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
+| :--- | :--- | :--- | :--- |
 | **[Ingatin: Telegram Reminder SaaS](https://github.com/hanifalkauni/telegram-reminder-bot)** | Serverless reminder SaaS bot for tracking bills, warranties, routine maintenance & vehicle taxes | `TypeScript` `grammY` `Supabase` `Vercel Cron` | [🔗 Repo](https://github.com/hanifalkauni/telegram-reminder-bot) |
 | **[Telegram AI Financial Tracker](https://github.com/hanifalkauni/telegram-financial-tracker-bot)** | Commercial finance bot with natural language expense logging, OCR receipt scanning & 50/30/20 budget | `TypeScript` `Gemini AI` `Telegraf` `Supabase` | [🔗 Repo](https://github.com/hanifalkauni/telegram-financial-tracker-bot) |
 | **[Weekend Schedule Bot & Mini App](https://github.com/hanifalkauni/weekend-schedule)** | Telegram Bot & Mini App for team project schedule management with calendar export (.ics) | `JavaScript` `Telegram Mini App` `Supabase` `Vercel Cron` | [🔗 Repo](https://github.com/hanifalkauni/weekend-schedule) |
@@ -108,19 +132,20 @@
 
 ### 📦 Packages & Libraries
 | Project | Description & Key Features | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
+| :--- | :--- | :--- | :--- |
 | **[Planogrid Go](https://github.com/hanifalkauni/planogrid-go)** | Pure Go package for 2D spatial grid sorting of object detection bounding boxes & planogram audit | `Go` `Spatial Grid Algorithms` `Computer Vision` | [🔗 Repo](https://github.com/hanifalkauni/planogrid-go) |
 | **[Planogrid PHP](https://github.com/hanifalkauni/planogrid)** | Framework-agnostic PHP package for 2D Spatial Grid Sorting & AWS Rekognition annotations | `PHP` `AWS Rekognition` `Spatial Sorting` | [🔗 Repo](https://github.com/hanifalkauni/planogrid) |
 | **[Distance Coordinate Calculator](https://github.com/hanifalkauni/distance-coordinate-calculator-package)** | PHP & Laravel package to calculate Haversine GPS distance, radius bounds & nearest locations | `PHP` `Laravel` `Haversine Formula` `GIS` | [🔗 Repo](https://github.com/hanifalkauni/distance-coordinate-calculator-package) |
 
 ### ⚡ WebAssembly (Wasm)
 | Project | Description & Key Features | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
+| :--- | :--- | :--- | :--- |
 | **[WASM Sudoku Go](https://github.com/hanifalkauni/wasm-sudoku-go)** | Lightning-fast Sudoku web game powered by Go WebAssembly with real-time global leaderboard | `Go` `WebAssembly (WASM)` `JavaScript` `Redis` | [🔗 Repo](https://github.com/hanifalkauni/wasm-sudoku-go) |
 
 ### 🛠️ Developer Tools & AI Skills
 | Project | Description & Key Features | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
+| :--- | :--- | :--- | :--- |
+| **[Context Architect](https://github.com/hanifalkauni/context-architect)** | Universal Autonomous Context Window Management, Prompt Caching, Token Optimization & Live Observability AI Agent and MCP Server | `TypeScript` `MCP Server` `AI Skill` `Token Optimization` `Prompt Caching` | [🔗 Repo](https://github.com/hanifalkauni/context-architect) |
 | **[UML Architect](https://github.com/hanifalkauni/uml-architect)** | Universal Autonomous Code-to-Diagram AI Agent & MCP Server tracing endpoints & execution flows into Mermaid.js & PlantUML | `TypeScript` `MCP Server` `Mermaid.js` `PlantUML` `AI Agent` | [🔗 Repo](https://github.com/hanifalkauni/uml-architect) |
 | **[README Architect](https://github.com/hanifalkauni/readme-architect)** | Universal AI Skill Agent for automated, compliant & visually stunning README generation (MCP ready) | `JavaScript` `MCP Protocol` `AI Agent` | [🔗 Repo](https://github.com/hanifalkauni/readme-architect) |
 | **[Alih Spec](https://github.com/hanifalkauni/alih-spec)** | Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversions | `SDD Framework` `AI Skill` `PowerShell` | [🔗 Repo](https://github.com/hanifalkauni/alih-spec) |
