@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=HanifAlKauni&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=white" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=650&lines=HanifAlKauni;Back+End+Developer;Golang+%7C+Laravel+%7C+AI+Engineer;Building+Scalable+Backend+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=750&lines=Hanif+Al-Kauni;Backend+%26+AI+Systems+Engineer;Golang+%7C+Model+Context+Protocol+%7C+Agentic+Workflows;Building+High-Performance+Backend+%26+AI+Systems" />
 
 <p align="center">
   <a href="https://linkedin.com/in/hanifalkauni" target="_blank">
