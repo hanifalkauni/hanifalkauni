@@ -122,34 +122,34 @@
 <br />
 
 ### 🤖 Chatbots & AI Bots
-| Project | Description & Key Features | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **[Ingatin: Telegram Reminder SaaS](https://github.com/hanifalkauni/telegram-reminder-bot)** | Serverless reminder SaaS bot for tracking bills, warranties, routine maintenance & vehicle taxes | `TypeScript` `grammY` `Supabase` `Vercel Cron` | [🔗 Repo](https://github.com/hanifalkauni/telegram-reminder-bot) |
-| **[Telegram AI Financial Tracker](https://github.com/hanifalkauni/telegram-financial-tracker-bot)** | Commercial finance bot with natural language expense logging, OCR receipt scanning & 50/30/20 budget | `TypeScript` `Gemini AI` `Telegraf` `Supabase` | [🔗 Repo](https://github.com/hanifalkauni/telegram-financial-tracker-bot) |
-| **[Weekend Schedule Bot & Mini App](https://github.com/hanifalkauni/weekend-schedule)** | Telegram Bot & Mini App for team project schedule management with calendar export (.ics) | `JavaScript` `Telegram Mini App` `Supabase` `Vercel Cron` | [🔗 Repo](https://github.com/hanifalkauni/weekend-schedule) |
-| **[Gemini Chatbot Web & API](https://github.com/hanifalkauni/gemini-chatbot-api)** | Interactive web chatbot application powered by Google Gemini AI with clean modern UI | `JavaScript` `Express` `Google Gemini API` | [🔗 Repo](https://github.com/hanifalkauni/gemini-chatbot-api) |
-| **[Gemini AI Multimodal API](https://github.com/hanifalkauni/gemini-ai-api-project)** | Express REST API for multimodal content generation across text, images, documents & audio | `Node.js` `Express` `Google Gemini API` | [🔗 Repo](https://github.com/hanifalkauni/gemini-ai-api-project) |
+| Project | Description & Key Features | Tech Stack |
+| :--- | :--- | :--- |
+| **[Ingatin: Telegram Reminder SaaS](https://github.com/hanifalkauni/telegram-reminder-bot)** | Serverless reminder SaaS bot for tracking bills, warranties, routine maintenance & vehicle taxes | `TypeScript` `grammY` `Supabase` `Vercel Cron` |
+| **[Telegram AI Financial Tracker](https://github.com/hanifalkauni/telegram-financial-tracker-bot)** | Commercial finance bot with natural language expense logging, OCR receipt scanning & 50/30/20 budget | `TypeScript` `Gemini AI` `Telegraf` `Supabase` |
+| **[Weekend Schedule Bot & Mini App](https://github.com/hanifalkauni/weekend-schedule)** | Telegram Bot & Mini App for team project schedule management with calendar export (.ics) | `JavaScript` `Telegram Mini App` `Supabase` `Vercel Cron` |
+| **[Gemini Chatbot Web & API](https://github.com/hanifalkauni/gemini-chatbot-api)** | Interactive web chatbot application powered by Google Gemini AI with clean modern UI | `JavaScript` `Express` `Google Gemini API` |
+| **[Gemini AI Multimodal API](https://github.com/hanifalkauni/gemini-ai-api-project)** | Express REST API for multimodal content generation across text, images, documents & audio | `Node.js` `Express` `Google Gemini API` |
 
 ### 📦 Packages & Libraries
-| Project | Description & Key Features | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **[Planogrid Go](https://github.com/hanifalkauni/planogrid-go)** | Pure Go package for 2D spatial grid sorting of object detection bounding boxes & planogram audit | `Go` `Spatial Grid Algorithms` `Computer Vision` | [🔗 Repo](https://github.com/hanifalkauni/planogrid-go) |
-| **[Planogrid PHP](https://github.com/hanifalkauni/planogrid)** | Framework-agnostic PHP package for 2D Spatial Grid Sorting & AWS Rekognition annotations | `PHP` `AWS Rekognition` `Spatial Sorting` | [🔗 Repo](https://github.com/hanifalkauni/planogrid) |
-| **[Distance Coordinate Calculator](https://github.com/hanifalkauni/distance-coordinate-calculator-package)** | PHP & Laravel package to calculate Haversine GPS distance, radius bounds & nearest locations | `PHP` `Laravel` `Haversine Formula` `GIS` | [🔗 Repo](https://github.com/hanifalkauni/distance-coordinate-calculator-package) |
+| Project | Description & Key Features | Tech Stack |
+| :--- | :--- | :--- |
+| **[Planogrid Go](https://github.com/hanifalkauni/planogrid-go)** | Pure Go package for 2D spatial grid sorting of object detection bounding boxes & planogram audit | `Go` `Spatial Grid Algorithms` `Computer Vision` |
+| **[Planogrid PHP](https://github.com/hanifalkauni/planogrid)** | Framework-agnostic PHP package for 2D Spatial Grid Sorting & AWS Rekognition annotations | `PHP` `AWS Rekognition` `Spatial Sorting` |
+| **[Distance Coordinate Calculator](https://github.com/hanifalkauni/distance-coordinate-calculator-package)** | PHP & Laravel package to calculate Haversine GPS distance, radius bounds & nearest locations | `PHP` `Laravel` `Haversine Formula` `GIS` |
 
 ### ⚡ WebAssembly (Wasm)
-| Project | Description & Key Features | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **[WASM Sudoku Go](https://github.com/hanifalkauni/wasm-sudoku-go)** | Lightning-fast Sudoku web game powered by Go WebAssembly with real-time global leaderboard | `Go` `WebAssembly (WASM)` `JavaScript` `Redis` | [🔗 Repo](https://github.com/hanifalkauni/wasm-sudoku-go) |
+| Project | Description & Key Features | Tech Stack |
+| :--- | :--- | :--- |
+| **[WASM Sudoku Go](https://github.com/hanifalkauni/wasm-sudoku-go)** | Lightning-fast Sudoku web game powered by Go WebAssembly with real-time global leaderboard | `Go` `WebAssembly (WASM)` `JavaScript` `Redis` |
 
 ### 🛠️ Developer Tools & AI Skills
-| Project | Description & Key Features | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **[Confluence PRD Converter](https://github.com/hanifalkauni/confluence-prd-converter)** | High-fidelity Confluence PRD to AI-ready Markdown converter & MCP Server (preserves tables, Jira lozenges, attachments & discussions) | `Python` `MCP Server` `FastMCP` `Confluence API` `Markdown Parser` | [🔗 Repo](https://github.com/hanifalkauni/confluence-prd-converter) |
-| **[Context Architect](https://github.com/hanifalkauni/context-architect)** | Universal Autonomous Context Window Management, Prompt Caching, Token Optimization & Live Observability AI Agent and MCP Server | `TypeScript` `MCP Server` `AI Skill` `Token Optimization` `Prompt Caching` | [🔗 Repo](https://github.com/hanifalkauni/context-architect) |
-| **[UML Architect](https://github.com/hanifalkauni/uml-architect)** | Universal Autonomous Code-to-Diagram AI Agent & MCP Server tracing endpoints & execution flows into Mermaid.js & PlantUML | `TypeScript` `MCP Server` `Mermaid.js` `PlantUML` `AI Agent` | [🔗 Repo](https://github.com/hanifalkauni/uml-architect) |
-| **[README Architect](https://github.com/hanifalkauni/readme-architect)** | Universal AI Skill Agent for automated, compliant & visually stunning README generation (MCP ready) | `JavaScript` `MCP Protocol` `AI Agent` | [🔗 Repo](https://github.com/hanifalkauni/readme-architect) |
-| **[Alih Spec](https://github.com/hanifalkauni/alih-spec)** | Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversions | `SDD Framework` `AI Skill` `PowerShell` | [🔗 Repo](https://github.com/hanifalkauni/alih-spec) |
+| Project | Description & Key Features | Tech Stack |
+| :--- | :--- | :--- |
+| **[Confluence PRD Converter](https://github.com/hanifalkauni/confluence-prd-converter)** | High-fidelity Confluence PRD to AI-ready Markdown converter & MCP Server (preserves tables, Jira lozenges, attachments & discussions) | `Python` `MCP Server` `FastMCP` `Confluence API` `Markdown Parser` |
+| **[Context Architect](https://github.com/hanifalkauni/context-architect)** | Universal Autonomous Context Window Management, Prompt Caching, Token Optimization & Live Observability AI Agent and MCP Server | `TypeScript` `MCP Server` `AI Skill` `Token Optimization` `Prompt Caching` |
+| **[UML Architect](https://github.com/hanifalkauni/uml-architect)** | Universal Autonomous Code-to-Diagram AI Agent & MCP Server tracing endpoints & execution flows into Mermaid.js & PlantUML | `TypeScript` `MCP Server` `Mermaid.js` `PlantUML` `AI Agent` |
+| **[README Architect](https://github.com/hanifalkauni/readme-architect)** | Universal AI Skill Agent for automated, compliant & visually stunning README generation (MCP ready) | `JavaScript` `MCP Protocol` `AI Agent` |
+| **[Alih Spec](https://github.com/hanifalkauni/alih-spec)** | Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversions | `SDD Framework` `AI Skill` `PowerShell` |
 
 ---
 
