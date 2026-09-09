@@ -47,6 +47,17 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">📄 Confluence PRD Converter</h3>
+      <p align="center">
+        <a href="https://github.com/hanifalkauni/confluence-prd-converter">
+          <img src="https://img.shields.io/badge/MCP%20Server-Confluence%20to%20AI%20MD-0052CC?style=for-the-badge&logo=confluence&logoColor=white" />
+        </a>
+      </p>
+      <p>High-fidelity Confluence PRD to AI-ready Markdown converter & MCP Server. Preserves nested tables, Jira lozenges, alerts & attachments for Antigravity, Cursor, Claude Code, Windsurf & Continue.</p>
+      <p><b>Tech:</b> <code>Python</code> <code>MCP Server</code> <code>FastMCP</code> <code>Atlassian Confluence</code> <code>Markdown Parser</code></p>
+      <p align="right"><a href="https://github.com/hanifalkauni/confluence-prd-converter"><b>Explore Repository ➔</b></a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🚀 Alih Spec</h3>
       <p align="center">
         <a href="https://github.com/hanifalkauni/alih-spec">
@@ -56,17 +67,6 @@
       <p>Enterprise Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversion powered by 16 Universal Pillars.</p>
       <p><b>Tech:</b> <code>SDD Framework</code> <code>AI Skill</code> <code>PowerShell</code></p>
       <p align="right"><a href="https://github.com/hanifalkauni/alih-spec"><b>Explore Repository ➔</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📐 UML Architect</h3>
-      <p align="center">
-        <a href="https://github.com/hanifalkauni/uml-architect">
-          <img src="https://img.shields.io/badge/Agent-MCP%20%26%20Skill-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-        </a>
-      </p>
-      <p>Universal Autonomous Code-to-Diagram AI Agent & MCP Server. Traces API endpoints and execution flows across any language into syntax-validated Mermaid.js & PlantUML.</p>
-      <p><b>Tech:</b> <code>AI Agent</code> <code>MCP Server</code> <code>Mermaid.js</code> <code>PlantUML</code></p>
-      <p align="right"><a href="https://github.com/hanifalkauni/uml-architect"><b>Explore Repository ➔</b></a></p>
     </td>
   </tr>
   <tr>
@@ -82,15 +82,15 @@
       <p align="right"><a href="https://github.com/hanifalkauni/context-architect"><b>Explore Repository ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📝 README Architect</h3>
+      <h3 align="center">📐 UML Architect</h3>
       <p align="center">
-        <a href="https://github.com/hanifalkauni/readme-architect">
-          <img src="https://img.shields.io/badge/Agent-MCP%20%26%20Skill-3B82F6?style=for-the-badge&logo=markdown&logoColor=white" />
+        <a href="https://github.com/hanifalkauni/uml-architect">
+          <img src="https://img.shields.io/badge/Agent-MCP%20%26%20Skill-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
         </a>
       </p>
-      <p>Universal AI Skill Agent for automated, compliant & visually stunning README generation with MCP Server integration.</p>
-      <p><b>Tech:</b> <code>AI Agent</code> <code>MCP Server</code> <code>Markdown</code> <code>Documentation</code></p>
-      <p align="right"><a href="https://github.com/hanifalkauni/readme-architect"><b>Explore Repository ➔</b></a></p>
+      <p>Universal Autonomous Code-to-Diagram AI Agent & MCP Server. Traces API endpoints and execution flows across any language into syntax-validated Mermaid.js & PlantUML.</p>
+      <p><b>Tech:</b> <code>AI Agent</code> <code>MCP Server</code> <code>Mermaid.js</code> <code>PlantUML</code></p>
+      <p align="right"><a href="https://github.com/hanifalkauni/uml-architect"><b>Explore Repository ➔</b></a></p>
     </td>
   </tr>
   <tr>
@@ -145,6 +145,7 @@
 ### 🛠️ Developer Tools & AI Skills
 | Project | Description & Key Features | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **[Confluence PRD Converter](https://github.com/hanifalkauni/confluence-prd-converter)** | High-fidelity Confluence PRD to AI-ready Markdown converter & MCP Server (preserves tables, Jira lozenges, attachments & discussions) | `Python` `MCP Server` `FastMCP` `Confluence API` `Markdown Parser` | [🔗 Repo](https://github.com/hanifalkauni/confluence-prd-converter) |
 | **[Context Architect](https://github.com/hanifalkauni/context-architect)** | Universal Autonomous Context Window Management, Prompt Caching, Token Optimization & Live Observability AI Agent and MCP Server | `TypeScript` `MCP Server` `AI Skill` `Token Optimization` `Prompt Caching` | [🔗 Repo](https://github.com/hanifalkauni/context-architect) |
 | **[UML Architect](https://github.com/hanifalkauni/uml-architect)** | Universal Autonomous Code-to-Diagram AI Agent & MCP Server tracing endpoints & execution flows into Mermaid.js & PlantUML | `TypeScript` `MCP Server` `Mermaid.js` `PlantUML` `AI Agent` | [🔗 Repo](https://github.com/hanifalkauni/uml-architect) |
 | **[README Architect](https://github.com/hanifalkauni/readme-architect)** | Universal AI Skill Agent for automated, compliant & visually stunning README generation (MCP ready) | `JavaScript` `MCP Protocol` `AI Agent` | [🔗 Repo](https://github.com/hanifalkauni/readme-architect) |
