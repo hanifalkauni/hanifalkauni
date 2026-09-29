@@ -135,7 +135,8 @@
 | :--- | :--- | :--- |
 | **[Planogrid Go](https://github.com/hanifalkauni/planogrid-go)** | Pure Go package for 2D spatial grid sorting of object detection bounding boxes & planogram audit | `Go` `Spatial Grid Algorithms` `Computer Vision` |
 | **[Planogrid PHP](https://github.com/hanifalkauni/planogrid)** | Framework-agnostic PHP package for 2D Spatial Grid Sorting & AWS Rekognition annotations | `PHP` `AWS Rekognition` `Spatial Sorting` |
-| **[Distance Coordinate Calculator](https://github.com/hanifalkauni/distance-coordinate-calculator-package)** | PHP & Laravel package to calculate Haversine GPS distance, radius bounds & nearest locations | `PHP` `Laravel` `Haversine Formula` `GIS` |
+| **[Distance Coordinate Calculator Go](https://github.com/hanifalkauni/distance-coordinate-calculator-go)** | Lightweight, zero-dependency Go library for GPS distance calculation, geofencing radius checks, nearest-location search & sorting | `Go` `Haversine Formula` `Geofencing` `GIS` |
+| **[Distance Coordinate Calculator PHP](https://github.com/hanifalkauni/distance-coordinate-calculator-package)** | PHP & Laravel package to calculate Haversine GPS distance, radius bounds & nearest locations | `PHP` `Laravel` `Haversine Formula` `GIS` |
 
 ### ⚡ WebAssembly (Wasm)
 | Project | Description & Key Features | Tech Stack |
