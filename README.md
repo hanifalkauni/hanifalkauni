@@ -146,12 +146,12 @@
 ### 🛠️ Developer Tools & AI Skills
 | Project | Description & Key Features | Tech Stack |
 | :--- | :--- | :--- |
+| **[Alih Spec](https://github.com/hanifalkauni/alih-spec)** | Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversions | `SDD Framework` `AI Skill` `PowerShell` |
 | **[FuzzSpec](https://github.com/hanifalkauni/fuzzspec)** | Language-agnostic Spec-to-Contract AI testing harness & 500 crash preventer for OpenAPI REST APIs (MCP server, zero-token replay & SARIF exporter) | `Go` `OpenAPI 3.1` `MCP Protocol` `AI Agent` `SARIF` |
 | **[Confluence PRD Converter](https://github.com/hanifalkauni/confluence-prd-converter)** | High-fidelity Confluence PRD to AI-ready Markdown converter & MCP Server (preserves tables, Jira lozenges, attachments & discussions) | `Python` `MCP Server` `FastMCP` `Confluence API` `Markdown Parser` |
 | **[Context Architect](https://github.com/hanifalkauni/context-architect)** | Universal Autonomous Context Window Management, Prompt Caching, Token Optimization & Live Observability AI Agent and MCP Server | `TypeScript` `MCP Server` `AI Skill` `Token Optimization` `Prompt Caching` |
 | **[UML Architect](https://github.com/hanifalkauni/uml-architect)** | Universal Autonomous Code-to-Diagram AI Agent & MCP Server tracing endpoints & execution flows into Mermaid.js & PlantUML | `TypeScript` `MCP Server` `Mermaid.js` `PlantUML` `AI Agent` |
 | **[README Architect](https://github.com/hanifalkauni/readme-architect)** | Universal AI Skill Agent for automated, compliant & visually stunning README generation (MCP ready) | `JavaScript` `MCP Protocol` `AI Agent` |
-| **[Alih Spec](https://github.com/hanifalkauni/alih-spec)** | Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversions | `SDD Framework` `AI Skill` `PowerShell` |
 | **[tandai-ss](https://github.com/hanifalkauni/tandai-ss)** | Client-side screenshot annotation & evidence marker tool with blur/censor, step counters, watermark & SHA-256 ZIP export | `JavaScript` `HTML5 Canvas` `Client-Side` `GitHub Pages` |
 
 ---
