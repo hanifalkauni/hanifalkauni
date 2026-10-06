@@ -152,6 +152,7 @@
 | **[UML Architect](https://github.com/hanifalkauni/uml-architect)** | Universal Autonomous Code-to-Diagram AI Agent & MCP Server tracing endpoints & execution flows into Mermaid.js & PlantUML | `TypeScript` `MCP Server` `Mermaid.js` `PlantUML` `AI Agent` |
 | **[README Architect](https://github.com/hanifalkauni/readme-architect)** | Universal AI Skill Agent for automated, compliant & visually stunning README generation (MCP ready) | `JavaScript` `MCP Protocol` `AI Agent` |
 | **[Alih Spec](https://github.com/hanifalkauni/alih-spec)** | Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversions | `SDD Framework` `AI Skill` `PowerShell` |
+| **[tandai-ss](https://github.com/hanifalkauni/tandai-ss)** | Client-side screenshot annotation & evidence marker tool with blur/censor, step counters, watermark & SHA-256 ZIP export | `JavaScript` `HTML5 Canvas` `Client-Side` `GitHub Pages` |
 
 ---
 
