@@ -47,15 +47,15 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📄 Confluence PRD Converter</h3>
+      <h3 align="center">🛡️ FuzzSpec</h3>
       <p align="center">
-        <a href="https://github.com/hanifalkauni/confluence-prd-converter">
-          <img src="https://img.shields.io/badge/MCP%20Server-Confluence%20to%20AI%20MD-0052CC?style=for-the-badge&logo=confluence&logoColor=white" />
+        <a href="https://github.com/hanifalkauni/fuzzspec">
+          <img src="https://img.shields.io/badge/Spec--to--Contract-AI%20Testing%20Harness-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
         </a>
       </p>
-      <p>High-fidelity Confluence PRD to AI-ready Markdown converter & MCP Server. Preserves nested tables, Jira lozenges, alerts & attachments for Antigravity, Cursor, Claude Code, Windsurf & Continue.</p>
-      <p><b>Tech:</b> <code>Python</code> <code>MCP Server</code> <code>FastMCP</code> <code>Atlassian Confluence</code> <code>Markdown Parser</code></p>
-      <p align="right"><a href="https://github.com/hanifalkauni/confluence-prd-converter"><b>Explore Repository ➔</b></a></p>
+      <p>Language-agnostic Spec-to-Contract AI testing harness, 500 crash preventer & autonomous self-healing skill for OpenAPI REST APIs. Features boundary/adversarial fuzzing, zero-token replays & native MCP server.</p>
+      <p><b>Tech:</b> <code>Go</code> <code>OpenAPI 3.1</code> <code>MCP Server</code> <code>Contract Testing</code> <code>AI Fuzzing</code> <code>SARIF</code></p>
+      <p align="right"><a href="https://github.com/hanifalkauni/fuzzspec"><b>Explore Repository ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚀 Alih Spec</h3>
@@ -146,6 +146,7 @@
 ### 🛠️ Developer Tools & AI Skills
 | Project | Description & Key Features | Tech Stack |
 | :--- | :--- | :--- |
+| **[FuzzSpec](https://github.com/hanifalkauni/fuzzspec)** | Language-agnostic Spec-to-Contract AI testing harness & 500 crash preventer for OpenAPI REST APIs (MCP server, zero-token replay & SARIF exporter) | `Go` `OpenAPI 3.1` `MCP Protocol` `AI Agent` `SARIF` |
 | **[Confluence PRD Converter](https://github.com/hanifalkauni/confluence-prd-converter)** | High-fidelity Confluence PRD to AI-ready Markdown converter & MCP Server (preserves tables, Jira lozenges, attachments & discussions) | `Python` `MCP Server` `FastMCP` `Confluence API` `Markdown Parser` |
 | **[Context Architect](https://github.com/hanifalkauni/context-architect)** | Universal Autonomous Context Window Management, Prompt Caching, Token Optimization & Live Observability AI Agent and MCP Server | `TypeScript` `MCP Server` `AI Skill` `Token Optimization` `Prompt Caching` |
 | **[UML Architect](https://github.com/hanifalkauni/uml-architect)** | Universal Autonomous Code-to-Diagram AI Agent & MCP Server tracing endpoints & execution flows into Mermaid.js & PlantUML | `TypeScript` `MCP Server` `Mermaid.js` `PlantUML` `AI Agent` |
