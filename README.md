@@ -153,6 +153,7 @@
 | **[UML Architect](https://github.com/hanifalkauni/uml-architect)** | Universal Autonomous Code-to-Diagram AI Agent & MCP Server tracing endpoints & execution flows into Mermaid.js & PlantUML | `TypeScript` `MCP Server` `Mermaid.js` `PlantUML` `AI Agent` |
 | **[README Architect](https://github.com/hanifalkauni/readme-architect)** | Universal AI Skill Agent for automated, compliant & visually stunning README generation (MCP ready) | `JavaScript` `MCP Protocol` `AI Agent` |
 | **[tandai-ss](https://github.com/hanifalkauni/tandai-ss)** | Client-side screenshot annotation & evidence marker tool with blur/censor, step counters, watermark & SHA-256 ZIP export | `JavaScript` `HTML5 Canvas` `Client-Side` `GitHub Pages` |
+| **[tandai-video](https://github.com/hanifalkauni/tandai-video)** | 100% Client-side video evidence marker & redaction tool with screen recording, multi-track timeline, seamless cut/split, redaction & SHA-256 integrity manifest | `JavaScript` `HTML5 Video & Canvas` `Client-Side` `GitHub Pages` |
 
 ---
 
