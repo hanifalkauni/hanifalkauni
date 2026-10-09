@@ -58,15 +58,15 @@
       <p align="right"><a href="https://github.com/hanifalkauni/fuzzspec"><b>Explore Repository ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Alih Spec</h3>
+      <h3 align="center">🛡️ Samar MCP</h3>
       <p align="center">
-        <a href="https://github.com/hanifalkauni/alih-spec">
-          <img src="https://img.shields.io/badge/Framework-Enterprise%20SDD-8A2BE2?style=for-the-badge&logo=powershell&logoColor=white" />
+        <a href="https://github.com/hanifalkauni/samar-mcp">
+          <img src="https://img.shields.io/badge/Security-MCP%20Middleware-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
         </a>
       </p>
-      <p>Enterprise Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversion powered by 16 Universal Pillars.</p>
-      <p><b>Tech:</b> <code>SDD Framework</code> <code>AI Skill</code> <code>PowerShell</code></p>
-      <p align="right"><a href="https://github.com/hanifalkauni/alih-spec"><b>Explore Repository ➔</b></a></p>
+      <p>Universal Privacy & Security Middleware for Model Context Protocol (MCP). Intercepts and masks credentials before reaching LLM contexts via ephemeral in-memory vault, backed by fail-closed egress policy guard.</p>
+      <p><b>Tech:</b> <code>Go</code> <code>MCP Server</code> <code>Cybersecurity</code> <code>Zero-Persistence</code> <code>Fail-Closed</code></p>
+      <p align="right"><a href="https://github.com/hanifalkauni/samar-mcp"><b>Explore Repository ➔</b></a></p>
     </td>
   </tr>
   <tr>
@@ -91,6 +91,30 @@
       <p>Universal Autonomous Code-to-Diagram AI Agent & MCP Server. Traces API endpoints and execution flows across any language into syntax-validated Mermaid.js & PlantUML.</p>
       <p><b>Tech:</b> <code>AI Agent</code> <code>MCP Server</code> <code>Mermaid.js</code> <code>PlantUML</code></p>
       <p align="right"><a href="https://github.com/hanifalkauni/uml-architect"><b>Explore Repository ➔</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Alih Spec</h3>
+      <p align="center">
+        <a href="https://github.com/hanifalkauni/alih-spec">
+          <img src="https://img.shields.io/badge/Framework-Enterprise%20SDD-8A2BE2?style=for-the-badge&logo=powershell&logoColor=white" />
+        </a>
+      </p>
+      <p>Enterprise Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversion powered by 16 Universal Pillars.</p>
+      <p><b>Tech:</b> <code>SDD Framework</code> <code>AI Skill</code> <code>PowerShell</code></p>
+      <p align="right"><a href="https://github.com/hanifalkauni/alih-spec"><b>Explore Repository ➔</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📋 Confluence PRD Converter</h3>
+      <p align="center">
+        <a href="https://github.com/hanifalkauni/confluence-prd-converter">
+          <img src="https://img.shields.io/badge/Agent-FastMCP%20Server-0052CC?style=for-the-badge&logo=confluence&logoColor=white" />
+        </a>
+      </p>
+      <p>High-fidelity Confluence PRD to AI-ready Markdown converter & MCP Server. Preserves complex tables, Jira issue lozenges, attachments, and inline reviewer discussions.</p>
+      <p><b>Tech:</b> <code>Python</code> <code>FastMCP</code> <code>Confluence API</code> <code>Markdown Parser</code></p>
+      <p align="right"><a href="https://github.com/hanifalkauni/confluence-prd-converter"><b>Explore Repository ➔</b></a></p>
     </td>
   </tr>
   <tr>
@@ -148,6 +172,7 @@
 | :--- | :--- | :--- |
 | **[Alih Spec](https://github.com/hanifalkauni/alih-spec)** | Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversions | `SDD Framework` `AI Skill` `PowerShell` |
 | **[FuzzSpec](https://github.com/hanifalkauni/fuzzspec)** | Language-agnostic Spec-to-Contract AI testing harness & 500 crash preventer for OpenAPI REST APIs (MCP server, zero-token replay & SARIF exporter) | `Go` `OpenAPI 3.1` `MCP Protocol` `AI Agent` `SARIF` |
+| **[Samar MCP](https://github.com/hanifalkauni/samar-mcp)** | Privacy & security middleware for Model Context Protocol (MCP) with reversible tokenization, zero-persistence vault & egress policy guard | `Go` `MCP Server` `Cybersecurity` `AI Privacy` `Fail-Closed` |
 | **[Confluence PRD Converter](https://github.com/hanifalkauni/confluence-prd-converter)** | High-fidelity Confluence PRD to AI-ready Markdown converter & MCP Server (preserves tables, Jira lozenges, attachments & discussions) | `Python` `MCP Server` `FastMCP` `Confluence API` `Markdown Parser` |
 | **[Context Architect](https://github.com/hanifalkauni/context-architect)** | Universal Autonomous Context Window Management, Prompt Caching, Token Optimization & Live Observability AI Agent and MCP Server | `TypeScript` `MCP Server` `AI Skill` `Token Optimization` `Prompt Caching` |
 | **[UML Architect](https://github.com/hanifalkauni/uml-architect)** | Universal Autonomous Code-to-Diagram AI Agent & MCP Server tracing endpoints & execution flows into Mermaid.js & PlantUML | `TypeScript` `MCP Server` `Mermaid.js` `PlantUML` `AI Agent` |
