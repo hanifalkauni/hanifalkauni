@@ -157,6 +157,7 @@
 ### 📦 Packages & Libraries
 | Project | Description & Key Features | Tech Stack |
 | :--- | :--- | :--- |
+| **[trellis](https://github.com/hanifalkauni/trellis)** | Ultra-light, zero-dependency, memory-efficient ASCII/Unicode Table & Tree formatter for Go 1.24+ with deterministic ANSI & Emoji display width | `Go` `Zero-Dependencies` `CLI Formatter` `Unicode/ANSI` `Table & Tree` |
 | **[Planogrid Go](https://github.com/hanifalkauni/planogrid-go)** | Pure Go package for 2D spatial grid sorting of object detection bounding boxes & planogram audit | `Go` `Spatial Grid Algorithms` `Computer Vision` |
 | **[Planogrid PHP](https://github.com/hanifalkauni/planogrid)** | Framework-agnostic PHP package for 2D Spatial Grid Sorting & AWS Rekognition annotations | `PHP` `AWS Rekognition` `Spatial Sorting` |
 | **[Distance Coordinate Calculator Go](https://github.com/hanifalkauni/distance-coordinate-calculator-go)** | Lightweight, zero-dependency Go library for GPS distance calculation, geofencing radius checks, nearest-location search & sorting | `Go` `Haversine Formula` `Geofencing` `GIS` |
@@ -173,6 +174,7 @@
 | **[Alih Spec](https://github.com/hanifalkauni/alih-spec)** | Spec-Driven Development (SDD) framework & native AI skill for cross-stack codebase conversions | `SDD Framework` `AI Skill` `PowerShell` |
 | **[FuzzSpec](https://github.com/hanifalkauni/fuzzspec)** | Language-agnostic Spec-to-Contract AI testing harness & 500 crash preventer for OpenAPI REST APIs (MCP server, zero-token replay & SARIF exporter) | `Go` `OpenAPI 3.1` `MCP Protocol` `AI Agent` `SARIF` |
 | **[Samar MCP](https://github.com/hanifalkauni/samar-mcp)** | Privacy & security middleware for Model Context Protocol (MCP) with reversible tokenization, zero-persistence vault & egress policy guard | `Go` `MCP Server` `Cybersecurity` `AI Privacy` `Fail-Closed` |
+| **[kuncenv](https://github.com/hanifalkauni/kuncenv)** | Zero-dependency Go CLI for zero-knowledge .env encryption (AES-256-GCM), RAM-only secret injection, secret linting & 3-way semantic Git merge driver | `Go` `CLI` `AES-256-GCM` `Secret Management` `Cybersecurity` `Zero-Dependencies` |
 | **[MCP & Skill Security Auditor](https://github.com/hanifalkauni/mcp-skill-auditor)** | High-performance SAST security scanner for MCP configs, AI Agent Skills & server scripts (detects secret leaks, prompt injections, silent network egress & SSRF) | `Go` `SAST Engine` `MCP Protocol` `AI Skill` `Cybersecurity` `Zero-Dependencies` |
 | **[Confluence PRD Converter](https://github.com/hanifalkauni/confluence-prd-converter)** | High-fidelity Confluence PRD to AI-ready Markdown converter & MCP Server (preserves tables, Jira lozenges, attachments & discussions) | `Python` `MCP Server` `FastMCP` `Confluence API` `Markdown Parser` |
 | **[Context Architect](https://github.com/hanifalkauni/context-architect)** | Universal Autonomous Context Window Management, Prompt Caching, Token Optimization & Live Observability AI Agent and MCP Server | `TypeScript` `MCP Server` `AI Skill` `Token Optimization` `Prompt Caching` |
